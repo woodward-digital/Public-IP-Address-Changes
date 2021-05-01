@@ -7,6 +7,8 @@ Most Public IP Addresses for home broadband connections are normally dynamic IP 
 
 This is a quick and easy way to be notified if your IP Address changes, if you need to be notified when your IP address changes as you might be unable to use Dynamic DNS or would prefer not to.
 
+Included in the download is a template which you can import in the Task Scheduler within Windows.
+
 The Public IP Address Check has been written and developed by Woodward.Digital and is distributed freely under the MIT License.
 
 Please contact me if you have any comments or suggestions: contact@woodward.digital
